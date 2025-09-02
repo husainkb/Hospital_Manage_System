@@ -46,6 +46,7 @@ The Hospital Management System is a web application designed to streamline hospi
 1. Clone the repository:
 
    ```bash
+   https://github.com/husainkb/Hospital_Manage_System.git
    ```
 
 2. Navigate to the frontend directory and install dependencies:
